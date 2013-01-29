@@ -1,0 +1,1 @@
+Please check out the maps directory for several exciting stock maps! You can make your own maps with the included mapmaker tool. 
